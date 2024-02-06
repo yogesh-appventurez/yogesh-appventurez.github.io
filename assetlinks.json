@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "com.example.avauthtestapp",
+    "package_name": "com.example.avauthtestapp",
+    "sha256_cert_fingerprints":
+    ["AC:A1:8B:65:C1:59:69:EA:A0:7F:2F:99:C8:22:C3:C5:D6:04:6D:E5:83:BC:06:1F:57:52:EA:1E:F8:BA:2D:85"]
+  }
+}]
